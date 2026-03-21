@@ -15,4 +15,8 @@ deepseek.exe model\weights.bin model\tokenizer.bin
 
 
 ## Reference
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+[karpathy](https://github.com/karpathy/)
+
 [DeepSeek](https://huggingface.co/deepseek-ai)
