@@ -7,6 +7,15 @@
 deepseek.exe model\weights.bin model\tokenizer.bin
 ```
 
+```
+>> who are you
+<think>
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you.
+</think>
+
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you.
+```
+
 
 
 ## model
